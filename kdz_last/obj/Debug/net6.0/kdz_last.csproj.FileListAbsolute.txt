@@ -1,0 +1,12 @@
+/Users/nazarzakrevskij/RiderProjects/kdz_last/kdz_last/bin/Debug/net6.0/kdz_last.deps.json
+/Users/nazarzakrevskij/RiderProjects/kdz_last/kdz_last/bin/Debug/net6.0/kdz_last.dll
+/Users/nazarzakrevskij/RiderProjects/kdz_last/kdz_last/bin/Debug/net6.0/kdz_last.pdb
+/Users/nazarzakrevskij/RiderProjects/kdz_last/kdz_last/obj/Debug/net6.0/kdz_last.csproj.AssemblyReference.cache
+/Users/nazarzakrevskij/RiderProjects/kdz_last/kdz_last/obj/Debug/net6.0/kdz_last.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nazarzakrevskij/RiderProjects/kdz_last/kdz_last/obj/Debug/net6.0/kdz_last.AssemblyInfoInputs.cache
+/Users/nazarzakrevskij/RiderProjects/kdz_last/kdz_last/obj/Debug/net6.0/kdz_last.AssemblyInfo.cs
+/Users/nazarzakrevskij/RiderProjects/kdz_last/kdz_last/obj/Debug/net6.0/kdz_last.csproj.CoreCompileInputs.cache
+/Users/nazarzakrevskij/RiderProjects/kdz_last/kdz_last/obj/Debug/net6.0/kdz_last.dll
+/Users/nazarzakrevskij/RiderProjects/kdz_last/kdz_last/obj/Debug/net6.0/refint/kdz_last.dll
+/Users/nazarzakrevskij/RiderProjects/kdz_last/kdz_last/obj/Debug/net6.0/kdz_last.pdb
+/Users/nazarzakrevskij/RiderProjects/kdz_last/kdz_last/obj/Debug/net6.0/ref/kdz_last.dll
